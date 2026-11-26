@@ -1,6 +1,0 @@
-ID: E-root-turban-stilt
-类型: 实体
-所在: S-olive-harbor-kite
-可变性: 固定
----
-1. 前方街角浅色公寓楼的外墙上钉着一块蓝底白字的陶瓷长方形路牌，上面用西班牙语写着街名“Calle de los Olivos”。
