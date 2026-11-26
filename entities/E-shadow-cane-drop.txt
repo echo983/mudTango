@@ -1,0 +1,6 @@
+ID: E-shadow-cane-drop
+类型: 实体
+所在: E-iron-barrel-stand
+可变性: 被动
+---
+1. 一把普通的黑色长柄雨伞，木质弯柄，伞面收拢整齐。

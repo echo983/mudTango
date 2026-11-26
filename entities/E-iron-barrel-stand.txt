@@ -1,0 +1,8 @@
+ID: E-iron-barrel-stand
+类型: 实体
+所在: S-amber-lantern-bowl
+可变性: 不可变
+容器计数: 3
+---
+1. 摆在日料店门内靠墙处的一个黑色铁艺圆筒伞架。
+2. 里面目前立着三把伞：黑色长柄伞（E-shadow-cane-drop）、藏青折叠伞（E-navy-fold-label）、透明塑料伞（E-clear-mist-glass）。

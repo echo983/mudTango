@@ -1,0 +1,6 @@
+ID: E-clear-mist-glass
+类型: 实体
+所在: E-iron-barrel-stand
+可变性: 被动
+---
+1. 一把便宜的透明塑料长柄伞，伞骨略有轻微使用痕迹。
