@@ -1,0 +1,5 @@
+ID: V-tribute-tool-rug
+类型: 事件
+所在: S-amber-lantern-bowl
+---
+1. 2026年10月24日13:30至13:36之间，马德里小日料店（S-amber-lantern-bowl）进入午市上人时段，陆续有当地客人推门进店用餐，女店员（C-maple-apron-smile）开始忙碌招呼。
