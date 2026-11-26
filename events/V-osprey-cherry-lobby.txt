@@ -1,0 +1,5 @@
+ID: V-osprey-cherry-lobby
+类型: 事件
+所在: S-olive-harbor-kite
+---
+1. 2026年10月24日15:16至15:18左右，在警局接待大厅登记台前，失忆男客人（C-cedar-river-north）按值勤警员（C-wax-flannel-tannin）的指示配合进行指纹采集，以待后续系统核实身份。
