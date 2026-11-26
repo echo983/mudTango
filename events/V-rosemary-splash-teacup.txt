@@ -1,0 +1,5 @@
+ID: V-rosemary-splash-teacup
+类型: 事件
+所在: S-amber-lantern-bowl
+---
+1. 2026年10月24日13:06左右，在马德里小日料店内，男客人（C-cedar-river-north）向女店员（C-maple-apron-smile）说明自己失忆且随身物品丢失后，女店员答应帮忙报警并拿出手机准备拨号。
