@@ -1,0 +1,5 @@
+ID: V-smith-weir-wreath
+类型: 事件
+所在: S-amber-lantern-bowl
+---
+1. 2026年10月24日13:36至13:51之间，马德里小日料店（S-amber-lantern-bowl）午市客流继续增加，后厨开始出餐，女店员（C-maple-apron-smile）忙于招呼客人与端菜，男客人（C-cedar-river-north）仍在门口桌旁等待，警方尚未到场。
