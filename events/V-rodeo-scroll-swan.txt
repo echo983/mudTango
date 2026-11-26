@@ -1,0 +1,5 @@
+ID: V-rodeo-scroll-swan
+类型: 事件
+所在: S-amber-lantern-bowl
+---
+1. 2026年10月24日13:04左右，在马德里小日料店内，刚进店的男客人（C-cedar-river-north）向女店员（C-maple-apron-smile）提出帮忙报警的请求，女店员停下工作询问发生了什么事。
