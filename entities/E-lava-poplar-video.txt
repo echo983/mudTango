@@ -1,0 +1,7 @@
+ID: E-lava-poplar-video
+类型: 实体
+名称: Lily的智能手机
+所在: S-lotus-mist-bath
+可变性: 被动
+---
+1. 一部套着淡粉色硅胶保护壳的智能手机，正面贴有钢化膜，为 Lily（C-peach-rain-silk）本人的随身通讯设备，平放在书桌面上处于黑屏待机状态。
