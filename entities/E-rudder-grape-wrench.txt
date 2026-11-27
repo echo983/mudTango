@@ -1,0 +1,7 @@
+ID: E-rudder-grape-wrench
+类型: 实体
+名称: 二手 Apple AirPods（第三代）
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一副白色充电盒包装的二手 Apple AirPods（第三代）真无线耳机，盒身表面有细微划痕，旁边红白价签标明售价 95 欧元。
