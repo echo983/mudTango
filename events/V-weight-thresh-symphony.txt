@@ -1,0 +1,7 @@
+ID: V-weight-thresh-symphony
+类型: 事件
+名称: Lily接水饮用
+所在: S-lotus-mist-bath
+时间: 2026-10-24T18:25:00+02:00
+---
+1. 2026年10月24日周六18:25，Lily（C-peach-rain-silk）在一室公寓开放式厨台水槽接了半杯常温自来水喝下，解了口渴。
