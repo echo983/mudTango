@@ -1,0 +1,7 @@
+ID: V-tiger-museum-swirl
+类型: 事件
+名称: 店主上前接待点单
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:41:30+01:00
+---
+1. 2026年10月25日周日09:41，Cafetería Santander 店主（C-rose-onion-shawl）从吧台后拿着过塑早餐单走到里侧木桌旁，热情招呼询问 Lily（C-peach-rain-silk）点单。
