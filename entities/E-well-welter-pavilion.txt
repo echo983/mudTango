@@ -1,0 +1,7 @@
+ID: E-well-welter-pavilion
+类型: 实体
+名称: 深蓝色A6口袋笔记本
+所在: S-vitamin-lavender-under
+可变性: 被动
+---
+1. 一本深蓝色软皮封面的A6规格口袋笔记本，带有松紧绑带，于周六上午在临街文具店购得。
