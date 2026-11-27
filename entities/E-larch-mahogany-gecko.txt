@@ -1,0 +1,7 @@
+ID: E-larch-mahogany-gecko
+类型: 实体
+名称: 二手 PlayStation VR 头显
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一台黑色塑料外壳的二手 PlayStation VR 初代头戴显示器，附带黑色连接线缆与处理器盒，表面有轻微使用划痕，旁边红白价签标明售价 115 欧元。
