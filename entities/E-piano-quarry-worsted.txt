@@ -1,0 +1,8 @@
+ID: E-piano-quarry-worsted
+类型: 实体
+名称: 二手 Dell Latitude 5410 笔记本电脑
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一台银灰色金属磨砂外壳的二手 Dell Latitude 5410 商务笔记本电脑，14英寸屏幕，成色良好仅边缘有极轻微使用痕迹。
+2. 旁边的红白价签标明配置为 i5 处理器、16GB 内存、256GB 固态硬盘，售价 330 欧元。
