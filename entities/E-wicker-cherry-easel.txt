@@ -69,3 +69,4 @@ ID: E-wicker-cherry-easel
 61. 个人 Google 账号 edwin.madrid@gmail.com 未开启两步验证（凭密码即可直接在新设备登录，登录后会向邮箱和 Pixel 8 手机发送新设备登录安全提醒），且手机的 Google 密码管理器中同步存有该账号自身的登录密码（可通过指纹解锁查看）。
 62. 2026年10月24日周六16:52，手机屏幕弹出 Google 账号（edwin.madrid@gmail.com）的登录验证提示，显示“是，是我本人”与“不是，不要允许”选项。
 63. 2026年10月24日周六16:53，Edwin 在手机屏幕弹出的 Google 登录验证提示中点击了“是，是我本人”，验证界面显示已批准后收起。
+64. 2026年10月24日周六16:53，随着笔记本电脑上的 Google Chrome 浏览器成功登录 edwin.madrid@gmail.com，Google 系统随即向该 Gmail 收件箱及 Pixel 8 手机发送了一条关于 Linux 新设备登录的安全提醒邮件与通知。
