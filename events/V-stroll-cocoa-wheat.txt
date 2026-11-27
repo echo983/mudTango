@@ -1,0 +1,7 @@
+ID: V-stroll-cocoa-wheat
+类型: 事件
+名称: Wallapop网购耳机付款
+所在: S-linen-window-loft
+时间: 2026-10-24T17:30:00+02:00
+---
+1. 2026年10月24日周六17:30，Edwin 在公寓内通过手机 Wallapop 应用使用 Google Pay 支付 99.00 欧元（含商品 90.00 欧元、买家保护费 5.50 欧元及运费 3.50 欧元），下单购买了那副黑色二手 Bose QuietComfort Earbuds II 耳机。
