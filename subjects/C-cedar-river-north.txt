@@ -6,3 +6,4 @@ ID: C-cedar-river-north
 ---
 1. Edwin 是当前世界的主体验意识体，此刻在马德里一间社区公寓（S-linen-window-loft）的床上刚睁开眼醒来。
 2. 他手上目前没有拿着任何东西。
+3. Edwin 是一具成年男性的身体。
