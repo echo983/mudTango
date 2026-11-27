@@ -1,5 +1,0 @@
-ID: V-waiter-margin-anchor
-类型: 事件
-所在: S-amber-lantern-bowl
----
-1. 2026年10月24日14:40至14:42左右，在马德里小日料店内，女店员（C-maple-apron-smile）从后厨叫出店主，店主来到吧台旁与值勤警员（C-wax-flannel-tannin）用西班牙语沟通，准备配合查看门口上方的监控录像，失忆男客人（C-cedar-river-north）仍在门口桌旁坐着等待。
