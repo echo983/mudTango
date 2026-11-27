@@ -1,0 +1,7 @@
+ID: V-tarmac-tweed-echo
+类型: 事件
+名称: Lily开启起居室照明
+所在: S-lotus-mist-bath
+时间: 2026-10-24T18:21:00+02:00
+---
+1. 2026年10月24日周六18:21，Lily（C-peach-rain-silk）按下一室公寓起居室门边的开关，开启了室内吸顶灯照明。
