@@ -1,0 +1,7 @@
+ID: E-wasp-rice-tremor
+类型: 实体
+名称: 日料店招牌
+所在: S-olive-harbor-kite
+可变性: 被动
+---
+1. 小日料店门楣上方挂着一块深木色长方形招牌，上面用白色字体印着“SAKURA SUSHI”，下方有一行小字“RESTAURANTE JAPONÉS”。
