@@ -3,7 +3,7 @@ ID: E-wicker-cherry-easel
 名称: 智能手机
 所在: S-linen-window-loft
 可变性: 被动
-计量状态: {"BBVA活期(EUR)": "3127.00", "Revolut主账户(EUR)": "418.20"}
+计量状态: {"BBVA活期(EUR)": "3028.00", "Revolut主账户(EUR)": "418.20"}
 ---
 1. 一部深灰色磨砂外壳的智能手机，目前处于屏幕熄灭的待机状态，正面朝上放在简易书桌的桌面边缘。
 2. 手机屏幕已亮起，并通过指纹解锁进入了主屏幕。
@@ -72,3 +72,4 @@ ID: E-wicker-cherry-easel
 64. 2026年10月24日周六16:53，随着笔记本电脑上的 Google Chrome 浏览器成功登录 edwin.madrid@gmail.com，Google 系统随即向该 Gmail 收件箱及 Pixel 8 手机发送了一条关于 Linux 新设备登录的安全提醒邮件与通知。
 65. 2026年10月24日周六17:28，手机 Wallapop 应用中的那条 90 欧元黑色 Bose QuietComfort Earbuds II 商品页面显示支持点击“Comprar”直接通过平台担保下单付款，进入结算预览界面后可见商品价格、买家保护费与运费明细及支付方式选项，尚未确认付款。
 66. 2026年10月24日周六17:27，手机上的 Wallapop 应用通过账号云端同步，在个人收藏列表中显示并打开了电脑端刚刚收藏的那条标价 90 欧元的黑色 Bose QuietComfort Earbuds II 二手商品详情页。
+67. 2026年10月24日周六17:30，手机 Wallapop 应用通过 Google Pay 扣款 99.00 欧元完成了黑色 Bose QuietComfort Earbuds II 的订单支付，当前订单状态显示为等待卖家发货或确认。
