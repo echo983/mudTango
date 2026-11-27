@@ -73,3 +73,4 @@ ID: E-wicker-cherry-easel
 65. 2026年10月24日周六17:28，手机 Wallapop 应用中的那条 90 欧元黑色 Bose QuietComfort Earbuds II 商品页面显示支持点击“Comprar”直接通过平台担保下单付款，进入结算预览界面后可见商品价格、买家保护费与运费明细及支付方式选项，尚未确认付款。
 66. 2026年10月24日周六17:27，手机上的 Wallapop 应用通过账号云端同步，在个人收藏列表中显示并打开了电脑端刚刚收藏的那条标价 90 欧元的黑色 Bose QuietComfort Earbuds II 二手商品详情页。
 67. 2026年10月24日周六17:30，手机 Wallapop 应用通过 Google Pay 扣款 99.00 欧元完成了黑色 Bose QuietComfort Earbuds II 的订单支付，当前订单状态显示为等待卖家发货或确认。
+68. 2026年10月24日周六17:30，随着 Wallapop 订单付款完成，手机系统钱包（Google Pay）弹出 99.00 欧元的扣款通知，同时关联邮箱 edwin.madrid@gmail.com 收到了来自 Wallapop 与 Google Pay 的订单确认及付款回执邮件。
