@@ -1,0 +1,7 @@
+ID: V-sunset-panel-usher
+类型: 事件
+名称: 进入日料店
+所在: S-amber-lantern-bowl
+时间: 2026-10-24T13:02:00+02:00
+---
+1. 2026年10月24日周六13:02，Edwin 从门前街道的长凳起身，拎着 CeX 购物袋走进了刚刚开始午市营业的 Izakaya Sakura 日料店。
