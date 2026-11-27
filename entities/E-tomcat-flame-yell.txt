@@ -1,0 +1,7 @@
+ID: E-tomcat-flame-yell
+类型: 实体
+名称: 二手JBL耳机
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 陈列在 CeX 门店耳机货架上的几副二手 JBL 耳机，外壳有正常使用痕迹，旁边贴有红白价签。
