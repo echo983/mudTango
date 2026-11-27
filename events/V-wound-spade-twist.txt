@@ -1,0 +1,7 @@
+ID: V-wound-spade-twist
+类型: 事件
+名称: 查验手机私密内容
+所在: S-lotus-mist-bath
+时间: 2026-10-24T18:33:00+02:00
+---
+1. 2026年10月24日周六18:33，Lily（C-peach-rain-silk）在床上躺着翻查了手机（E-lava-poplar-video）的相册与文件管理器，确认手机内没有创建任何秘密文件夹、隐私相册或加密保险箱。
