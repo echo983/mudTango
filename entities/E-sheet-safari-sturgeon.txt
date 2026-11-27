@@ -1,0 +1,7 @@
+ID: E-sheet-safari-sturgeon
+类型: 实体
+名称: 二手 Meta Quest 2 VR头显
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一台白色外壳的二手 Meta Quest 2 一体机 VR 头显，配有一对白色环形手部控制器，机身近乎全新，旁边红白价签标明容量为 128GB、售价 210 欧元。
