@@ -1,0 +1,7 @@
+ID: V-flannel-oregano-warship
+类型: 事件
+名称: 橱窗桌前入座与点单招呼
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:03:00+01:00
+---
+1. 2026年10月25日周日09:03，Edwin 在 Cafetería Santander 室内靠临街橱窗的一张小方木桌旁入座，向吧台招呼点单，店主应声准备上前接待。
