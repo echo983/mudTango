@@ -1,0 +1,7 @@
+ID: V-wretch-topaz-word
+类型: 事件
+名称: 手机地图查询最近开门早餐吧
+所在: S-olive-harbor-kite
+时间: 2026-10-25T08:59:00+01:00
+---
+1. 2026年10月25日周日08:59，Edwin 在 Calle de San Germán 街道旁通过手机 Google Maps 查询到最近营业的早咖啡吧为“Cafetería Santander”，位于沿街拐角约 120 米处，步行约 2 分钟。
