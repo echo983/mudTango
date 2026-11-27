@@ -1,0 +1,7 @@
+ID: V-wreath-wind-glove
+类型: 事件
+名称: 取出钥匙与零钱包
+所在: S-lotus-mist-bath
+时间: 2026-10-25T09:16:00+01:00
+---
+1. 2026年10月25日周日09:16，Lily（C-peach-rain-silk）在一室公寓玄关盒中拿到了门钥匙（E-fern-keychain-mint），并从行李箱拉链暗袋中翻出随身粉色零钱包卡包（E-cardholder-blush-silk），备齐随身出门物品。
