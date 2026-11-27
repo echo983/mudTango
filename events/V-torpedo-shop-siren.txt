@@ -1,0 +1,7 @@
+ID: V-torpedo-shop-siren
+类型: 事件
+名称: Lily沐浴完毕走出浴室
+所在: S-lotus-mist-bath
+时间: 2026-10-24T17:48:00+02:00
+---
+1. 2026年10月24日周六17:48左右，Lily（C-peach-rain-silk）关上淋浴花洒并推开磨砂门，走出浴室来到公寓起居室内。
