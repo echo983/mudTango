@@ -1,0 +1,7 @@
+ID: V-wharf-husky-torso
+类型: 事件
+名称: 制作Debian13安装盘
+所在: S-pebble-tank-sun
+时间: 2026-10-24T14:47:00+02:00
+---
+1. 2026年10月24日周六14:47，Edwin 在 Izakaya Sakura 门前街道的长凳上，使用连上 Wi-Fi 的 HP ProBook 450 G7 笔记本电脑下载了 Debian 13（Trixie）安装镜像与 Rufus 工具，并将二手 32GB U盘制作成了 Debian 13 可引导安装盘。
