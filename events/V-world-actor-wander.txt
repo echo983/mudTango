@@ -1,0 +1,7 @@
+ID: V-world-actor-wander
+类型: 事件
+名称: Edwin在Cafetería Santander点早餐
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:05:00+01:00
+---
+1. 2026年10月25日周日09:05，Edwin在Cafetería Santander靠窗桌旁向店主点了一大杯美式咖啡和一份火腿烤吐司（Tostada con jamón），店主记下后询问是否搭配番茄与橄榄油。
