@@ -1,0 +1,7 @@
+ID: V-tarragon-twilight-woodcut
+类型: 事件
+名称: Lily松手并寻找吹风机
+所在: S-lotus-mist-bath
+时间: 2026-10-24T17:55:00+02:00
+---
+1. 2026年10月24日周六17:55，Lily（C-peach-rain-silk）松开掐捏大腿的指尖，用毛巾继续擦干身体与头发，并在洗手台下抽屉里找到了吹风机。
