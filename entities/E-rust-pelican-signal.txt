@@ -1,0 +1,7 @@
+ID: E-rust-pelican-signal
+类型: 实体
+名称: 笔记本电源适配器
+所在: S-amber-lantern-bowl
+可变性: 被动
+---
+1. 一个黑色塑料外壳的二手笔记本电脑电源适配器，附带缠绕整齐的电源线，装在随身携带的 CeX 防震购物袋内，与 HP ProBook 450 G7 放在一起。
