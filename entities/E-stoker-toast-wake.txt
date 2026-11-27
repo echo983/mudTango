@@ -1,7 +1,0 @@
-ID: E-stoker-toast-wake
-类型: 实体
-名称: 社区小咖啡馆招牌
-所在: S-olive-harbor-kite
-可变性: 被动
----
-1. 社区小咖啡馆门楣上方挂着一块米白色的长方形招牌，上面用深棕色字体印着“CAFÉ LA ESQUINA”，下方印着一行小字“PANADERÍA Y BOLLERÍA”。

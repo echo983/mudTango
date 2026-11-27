@@ -1,9 +1,0 @@
-ID: S-cedar-stake-sunfish
-类型: 场景
-名称: 相交社区街道
-规范场域: N-urban-market-clock
-形态: 露天街道
-连通: S-steer-summit-smoke
----
-1. 这是一条与Calle de los Olivos相交的马德里社区街道，十月下旬的午后阳光斜照在人行道与临街建筑上。
-2. 沿街分布着西班牙本地的商铺、半敞着门面的小餐馆与居民楼，暂未见到华人百元店。
