@@ -1,0 +1,7 @@
+ID: V-lime-cactus-shimmer
+类型: 事件
+名称: Lily 前往并进入 Cafetería Santander
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:32:00+01:00
+---
+1. 2026年10月25日周日09:32，Lily（C-peach-rain-silk）从 Calle de San Germán, 14 号楼外沿街转角步行约两分钟抵达 Cafetería Santander，推门进入温暖营业的咖啡吧室内。

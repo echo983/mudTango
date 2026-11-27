@@ -1,0 +1,7 @@
+ID: C-snow-flour-shark
+类型: 主体
+名称: Cafetería Santander 咖啡店员
+所在: S-work-pavilion-totem
+角色: 活主体
+---
+1. Cafetería Santander 负责早班吧台的中年西班牙男店员，体型偏瘦，头发微白，系着深灰色围裙，动作干练利落。
