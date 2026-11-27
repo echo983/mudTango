@@ -1,0 +1,7 @@
+ID: V-hearth-stripe-guitar
+类型: 事件
+名称: Lily拿手机躺下盖被休息
+所在: S-lotus-mist-bath
+时间: 2026-10-24T18:27:00+02:00
+---
+1. 2026年10月24日周六18:27，Lily（C-peach-rain-silk）从书桌上拿起粉色硅胶壳智能手机（E-lava-poplar-video），走到单人床（E-trance-sauna-ruin）上躺下，并拉起浅灰棉被盖在身上休息。
