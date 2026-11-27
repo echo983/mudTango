@@ -1,0 +1,7 @@
+ID: V-verge-upkeep-udder
+类型: 事件
+名称: Izakaya Sakura 午市开门营业
+所在: S-pebble-tank-sun
+时间: 2026-10-24T13:00:00+02:00
+---
+1. 2026年10月24日周六13:00，Izakaya Sakura 日料店按午市营业时间开启门面，店员挂出深色营业布帘并点亮门前灯笼，正式开始午间接待食客。

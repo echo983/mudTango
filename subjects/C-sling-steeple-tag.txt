@@ -1,0 +1,7 @@
+ID: C-sling-steeple-tag
+类型: 主体
+名称: Izakaya Sakura 店员
+所在: S-pebble-tank-sun
+角色: 活主体
+---
+1. 一名四十岁左右的东亚裔男性，留着利落的短发，身穿黑色短袖T恤与深蓝色日式围裙，是 Izakaya Sakura 日料店的店员，2026年10月24日周六13:00正在店里准备午市接待。
