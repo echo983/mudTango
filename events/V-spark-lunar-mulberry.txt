@@ -1,0 +1,7 @@
+ID: V-spark-lunar-mulberry
+类型: 事件
+名称: 店员取出二手 Pixel Buds Pro 供查看
+所在: S-triangle-flint-mortar
+时间: 2026-10-24T12:06:00+02:00
+---
+1. 2026年10月24日周六12:06，在 CeX 二手电子产品门店内，店员应主意识体询问在电脑上查询库存后，从柜台储物格取出一副标价 105 欧元的二手 Google Pixel Buds Pro 真无线耳机放到玻璃柜台上供其查看。

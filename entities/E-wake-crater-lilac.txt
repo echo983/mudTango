@@ -1,0 +1,7 @@
+ID: E-wake-crater-lilac
+类型: 实体
+名称: 二手 Google Pixel Buds Pro 耳机
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一副二手 Google Pixel Buds Pro 真无线降噪耳机，配有白色鹅卵石形磨砂充电盒，盒身表面有轻微日常使用痕迹，旁边贴有标明售价 105 欧元的红白价签。
