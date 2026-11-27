@@ -78,3 +78,5 @@ ID: E-wicker-cherry-easel
 70. 2026年10月24日周六19:15，手机 Wallapop 应用收到卖家确认订单的推送通知，黑色 Bose QuietComfort Earbuds II 的订单状态更新为等待卖家寄件（Pendiente de envío），同时聊天窗口内新增一条卖家的西班牙语留言：“¡Hola! Venta confirmada. El lunes por la mañana paso por Correos a enviarlo. ¡Un saludo!”
 71. 2026年10月25日周日05:48，手机 Wallapop 应用内黑色 Bose 耳机订单状态维持为等待卖家寄件（Pendiente de envío），聊天记录停留在昨晚卖家的西班牙语确认留言，未收到新消息。
 72. 2026年10月25日周日05:50，手机 Wallapop 应用内与 Bose 耳机卖家的对话窗口中新增一条 Edwin 发送的西班牙语回复：“¡Muchas gracias! Perfecto, quedo a la espera del envío el lunes. ¡Buen fin de semana!”，状态为已送达。
+73. 2026年10月25日周日05:52，手机屏幕已熄灭，被 Edwin 随手搁在公寓床头的枕头旁。
+74. 2026年10月25日周日05:51，手机屏幕已熄灭，被 Edwin 顺手放在枕旁的床单上。
