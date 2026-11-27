@@ -1,0 +1,7 @@
+ID: E-tiger-resin-barrel
+类型: 实体
+名称: 社区街道烟店（Estanco）
+所在: S-olive-harbor-kite
+可变性: 被动
+---
+1. 一家位于马德里社区街道旁的烟店（Estanco），门楣上方挂着“TABACOS”招牌，装有灰白色金属卷帘门，门上贴着营业时间告示，周六下午卷帘门紧闭未营业。
