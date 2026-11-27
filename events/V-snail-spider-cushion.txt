@@ -1,0 +1,7 @@
+ID: V-snail-spider-cushion
+类型: 事件
+名称: 抵达早咖啡吧
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:01:00+01:00
+---
+1. 2026年10月25日周日09:01，Edwin 步行约120米来到转角的 Cafetería Santander 并推门进入店内准备用早餐。
