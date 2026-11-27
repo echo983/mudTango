@@ -1,0 +1,7 @@
+ID: C-rose-onion-shawl
+类型: 主体
+名称: 咖啡吧中年男店主
+所在: S-work-pavilion-totem
+角色: 活主体
+---
+1. Cafetería Santander 的中年男店主兼调酒师，约五十来岁，灰白短发，体型微胖，身穿白色短袖POLO衫配黑色半身围裙，动作干练熟练，操一口地道的马德里口音西班牙语。
