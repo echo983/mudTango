@@ -1,0 +1,7 @@
+ID: V-waver-tuba-tarmac
+类型: 事件
+名称: Lily出门锁门下楼至街头
+所在: S-olive-harbor-kite
+时间: 2026-10-25T09:22:00+01:00
+---
+1. 2026年10月25日周日09:22，Lily（C-peach-rain-silk）从一室公寓（S-lotus-mist-bath）出门，用钥匙将入户门反锁好，沿楼梯走下并推开楼栋单元大门来到马德里社区街道（S-olive-harbor-kite）。
