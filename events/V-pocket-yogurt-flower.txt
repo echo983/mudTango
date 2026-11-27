@@ -1,0 +1,7 @@
+ID: V-pocket-yogurt-flower
+类型: 事件
+名称: 回复二手耳机卖家寄件确认
+所在: S-linen-window-loft
+时间: 2026-10-25T05:50:00+01:00
+---
+1. 2026年10月25日周日05:50，Edwin 在公寓床上通过手机 Wallapop 应用向黑色 Bose 耳机卖家发送了西班牙语回复消息：“¡Muchas gracias! Perfecto, quedo a la espera del envío el lunes. ¡Buen fin de semana!”，消息已送达。
