@@ -1,0 +1,7 @@
+ID: C-zeal-sugar-socket
+类型: 主体
+名称: 穿黑色短袖T恤的日料店男店员
+所在: S-amber-lantern-bowl
+角色: 活主体
+---
+1. 一名留着利落短发、身穿黑色短袖T恤与深蓝色日式围裙的东亚裔男性店员，在 Izakaya Sakura 日料店工作，会说中文。
