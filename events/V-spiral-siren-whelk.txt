@@ -1,0 +1,7 @@
+ID: V-spiral-siren-whelk
+类型: 事件
+名称: 查看手机微信消息
+所在: S-lotus-mist-bath
+时间: 2026-10-24T18:29:00+02:00
+---
+1. 2026年10月24日周六18:29，Lily（C-peach-rain-silk）躺在床上浏览手机（E-lava-poplar-video）微信，查阅了留学生群里周日拼单采购的讨论以及母亲发来的关切问候。
