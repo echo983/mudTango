@@ -1,0 +1,7 @@
+ID: E-yurt-trial-tussle
+类型: 实体
+名称: 手机充电器
+所在: S-linen-window-loft
+可变性: 被动
+---
+1. 一个白色塑料外壳的Type-C快充充电头，连着一根白色Type-C数据线，插在公寓双人床头旁的墙面插座上。
