@@ -1,0 +1,7 @@
+ID: V-glass-swirl-torpedo
+类型: 事件
+名称: Lily 在 Cafetería Santander 室内落座
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:35:00+01:00
+---
+1. 2026年10月25日周日09:35，Lily（C-peach-rain-silk）在 Cafetería Santander 靠里侧的一张空方木桌旁拉开椅子落座，随身帆布包放在身侧，准备向吧台点单。
