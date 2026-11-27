@@ -1,0 +1,9 @@
+ID: S-toffee-teapot-harp
+类型: 场景
+名称: Panadería El Trigo 面包房内
+规范场域: N-urban-market-clock
+形态: 室内壳
+连通: S-paper-chest-trestle
+---
+1. 靠窗一侧是木质边框的玻璃橱窗，里面摆着码放法棍、牛角包和切块蛋糕的木质托盘；室内靠墙设有陈列面包的木架，尽头是一张木质柜台与收银机。
+2. 这是一家位于马德里社区十字路口旁的本地面包房（Panadería El Trigo）内部，空间不大但整洁明亮，室内亮着暖黄色的灯光。

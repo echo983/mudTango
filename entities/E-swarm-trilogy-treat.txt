@@ -1,0 +1,7 @@
+ID: E-swarm-trilogy-treat
+类型: 实体
+名称: 面包房店员
+所在: S-toffee-teapot-harp
+可变性: 主动
+---
+1. Panadería El Trigo 面包房的店员，留着深棕色齐肩发，系着深绿色围裙，使用西班牙语交流。
