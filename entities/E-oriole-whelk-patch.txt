@@ -1,0 +1,7 @@
+ID: E-oriole-whelk-patch
+类型: 实体
+名称: 二手 Sony WH-1000XM4 耳机
+所在: S-triangle-flint-mortar
+可变性: 被动
+---
+1. 一副黑色磨砂外壳的二手 Sony WH-1000XM4 头戴式无线降噪耳机，耳罩皮革有轻微使用褶皱，旁边红白价签标明售价 145 欧元。
