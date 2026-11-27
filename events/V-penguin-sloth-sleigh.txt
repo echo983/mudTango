@@ -1,0 +1,7 @@
+ID: V-penguin-sloth-sleigh
+类型: 事件
+名称: 笔记本电脑安装Debian 13与GNOME桌面
+所在: S-pebble-tank-sun
+时间: 2026-10-24T15:15:00+02:00
+---
+1. 2026年10月24日周六14:47至15:15，Edwin 在 Izakaya Sakura 门前街道的长凳上，使用 Debian 13 安装U盘引导 HP ProBook 450 G7 笔记本电脑，通过店内无线网络下载并安装了 Debian 13（Trixie）系统与完整 GNOME 桌面环境，顺利进入新系统桌面。
