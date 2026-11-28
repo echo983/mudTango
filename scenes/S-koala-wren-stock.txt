@@ -1,0 +1,9 @@
+ID: S-koala-wren-stock
+类型: 场景
+名称: 玉龙百元店（Calle de Bravo Murillo, 88）
+规范场域: N-urban-market-clock
+形态: 室内壳
+连通: S-olive-harbor-kite
+---
+1. 店内由密集排列的金属货架组成，陈列日用百货、收纳用品、五金工具与小型厨房用品，过道狭窄，日光灯明亮，门口可见临街推拉玻璃门。
+2. 这是一家位于马德里 Calle de Bravo Murillo, 88 的华人百元店（Bazar），店门正面招牌写有“玉龙百元店”，周日上午正常营业。
