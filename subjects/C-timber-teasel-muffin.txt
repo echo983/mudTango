@@ -1,0 +1,8 @@
+ID: C-timber-teasel-muffin
+类型: 主体
+名称: Cafetería Santander 中年男店主（系白色围裙，负责吧台与咖啡机）
+所在: S-work-pavilion-totem
+角色: 活主体
+驻留: 常驻
+---
+1. 中年男性店主，系着围裙，常驻 Cafetería Santander 吧台后方，负责咖啡机与餐点制作。
