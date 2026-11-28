@@ -1,0 +1,7 @@
+ID: V-tub-penguin-north
+类型: 事件
+名称: 咖啡馆结账
+所在: S-work-pavilion-totem
+时间: 2026-10-25T09:50:30+01:00
+---
+1. 2026年10月25日周日09:50左右，Edwin 在 Cafetería Santander 吧台前通过手机 NFC 向店主支付早餐费用 6.80 欧元，完成结账并离开座位区域。
