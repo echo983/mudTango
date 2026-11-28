@@ -1,7 +1,7 @@
 ID: E-perfume-vinegar-yawn
 类型: 实体
 名称: 有线USB鼠标（塑料包装）
-所在: S-koala-wren-stock
+所在: S-linen-window-loft
 可变性: 被动
 ---
 1. 该鼠标为店内现货陈列商品，包装完好，尚未被购买
