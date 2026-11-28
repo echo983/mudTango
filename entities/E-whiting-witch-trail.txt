@@ -1,7 +1,7 @@
 ID: E-whiting-witch-trail
 类型: 实体
 名称: 二手 HP ProBook 450 G7 笔记本电脑
-所在: S-triangle-flint-mortar
+所在: S-linen-window-loft
 可变性: 被动
 ---
 1. 一台深灰色外壳的15.6英寸二手 HP ProBook 450 G7 笔记本电脑，顶盖表面有几处明显的划痕与轻微磨损痕迹，旁边立着标明 i5 十代处理器、16GB 内存、256GB 固态硬盘及 265 欧元售价的红白价签。
