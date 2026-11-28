@@ -1,7 +1,7 @@
 ID: E-crater-torpedo-tile
 类型: 实体
 名称: 二手32GB U盘
-所在: S-triangle-flint-mortar
+所在: S-linen-window-loft
 可变性: 被动
 ---
 1. 一枚黑红相间的紧凑型塑料外壳二手U盘，容量为32GB，接口处有轻微插拔使用痕迹，侧面贴着标明4欧元售价的红白价签，已通过门店基础读写测试。
