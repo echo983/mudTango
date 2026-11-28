@@ -90,3 +90,4 @@ ID: C-peach-rain-silk
 83. 2026年10月25日周日上午，Lily 在 Cafetería Santander 室内用早餐，至10:03仍在店内。
 84. Lily 于上午离开 Cafetería Santander，之后在社区街道上行走，当前位于马德里社区街道。
 85. Lily 于周日上午离开 Cafetería Santander 后，在社区街道上停留并查看手机地图，此时仍在街区内辨认前往货行的方向。
+86. Lily 未能按时赶到货行，改约了同伴的碰头时间，之后步行返回了自己位于社区街道旁的公寓。
