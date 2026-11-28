@@ -1,6 +1,6 @@
 ID: S-lotus-mist-bath
 类型: 场景
-名称: 楼下一室公寓
+名称: Lily的楼下一室公寓（楼下）
 规范场域: N-urban-market-clock
 形态: 室内壳
 连通: S-olive-harbor-kite, S-linen-window-loft
