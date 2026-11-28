@@ -1,7 +1,7 @@
 ID: E-willow-feather-vantage
 类型: 实体
 名称: 棕色纸板快递包裹（白底蓝字面单，收件人为Edwin）
-所在: S-linen-window-loft
+所在: S-work-pavilion-totem
 可变性: 被动
 ---
 1. 包裹目前由快递员托在公寓入户门口，尚未交付给收件人签收
