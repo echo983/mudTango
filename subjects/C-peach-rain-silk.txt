@@ -2,7 +2,7 @@ ID: C-peach-rain-silk
 类型: 主体
 名称: Lily
 角色: 活主体
-所在: S-linen-window-loft
+所在: S-lotus-mist-bath
 ---
 1. Lily 是当前世界的一名主体验意识体，21岁，女性，四川籍马德里留学生，容貌出众、眉眼清丽，身材匀称纤细，刚搬进位于 Edwin 楼下的这间一室公寓（S-lotus-mist-bath）不到一周。
 2. 此刻她正独自站在公寓独立淋浴间的温热水流下淋浴。
