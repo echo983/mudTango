@@ -1,0 +1,9 @@
+ID: C-circle-stock-staff
+类型: 主体
+名称: Cafetería Santander 中年男店主（深色围裙）
+所在: S-work-pavilion-totem
+角色: 活主体
+驻留: 常驻
+---
+1. 中年男性，身穿深色围裙，是 Cafetería Santander 的常驻店主，与昨日见面的熟面孔
+2. 早晨在吧台后熟练擦拭杯具并负责迎客与点单
