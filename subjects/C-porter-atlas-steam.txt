@@ -1,7 +1,7 @@
 ID: C-porter-atlas-steam
 类型: 主体
 名称: 14号居民楼的男性快递员（身穿蓝色反光快递工装背心）
-所在: S-linen-window-loft
+所在: S-olive-harbor-kite
 角色: 活主体
 驻留: 流动
 ---
